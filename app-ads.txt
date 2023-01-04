@@ -12,6 +12,8 @@ facebook.com, 1164580414130972, RESELLER, c3e20eee3f780d68
 facebook.com, 662599278744686, RESELLER, c3e20eee3f780d68
 #Facebook Ownership Confirmation
 facebook.com, 1612698882497044, RESELLER, c3e20eee3f780d68
+#Facebook Ownership Confirmation
+facebook.com, 743345696736460, RESELLER, c3e20eee3f780d68
 
 #Adcolony
 adcolony.com, 3368f12496ddc66fae3cca0db962e22f, DIRECT, 1ad675c9de6b5176
